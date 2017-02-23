@@ -1,0 +1,37 @@
+.sky{
+    background-color: yellow;
+}
+.ult{
+    background-color: black;
+}
+#zen{
+    height: 300px;
+    width: 300px;
+    border-radius: 25%;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    padding: 20px;
+}
+
+.regular{
+    background-image: url("http://overwatch-op-guide.com/wp-content/uploads/2016/07/ZENYATTA.png");
+    background-position: center;
+    background-size: contain;
+    
+}
+.regular:hover{
+    border: 10px solid gray;
+}
+
+.ult-zen{
+    background-image: url("https://glemda.com/overwatch/wp-content/uploads/2016/07/zenyatta_ultimate_potg_transc.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
